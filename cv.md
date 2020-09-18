@@ -1,6 +1,6 @@
 		#TOROTKO ALESIA
                                                  
-####PERSONAL INFORMATION
+#####PERSONAL INFORMATION
 
 Address: 44 Gintovta Street, apt. 34, Minsk, Republic of Belarus
 
@@ -14,23 +14,23 @@ Nationality: Republic of Belarus.
 
 Marital status: single.
 
-####EDUCATION
+#####EDUCATION
 
-####secondary special education
+#####secondary special education
 Affiliate "Minsk Radioengineering College" 2001-2007
 Information technology software
 software technician
 
-####WORK EXPERIENCE
+#####WORK EXPERIENCE
 Mobile TeleSystems (MTS) , Belarus 2004 —2017 Specialist in working with clients. Consultations on incoming calls, sales, equipment configuration, providing information over Ethernet 
 
-####QUALIFICATIONS
+#####QUALIFICATIONS
  Basic  javascript, Basic HTML, Basic CSS, Git.
 
-####OBJECTIVE 
+#####OBJECTIVE 
 I am interested in finding a job in a company where I can use and develop my knowledge in IT technologies.
 
-####PERSONAL QUALITIES
+#####PERSONAL QUALITIES
 
 *Dependable
 *Determined
@@ -39,7 +39,7 @@ I am interested in finding a job in a company where I can use and develop my kno
 
 Sociable, purposeful, responsible, ability to work in a team. Well-delivered speech, active life position. I am engaged in self-education : online courses Advance24 and Basic javascript, Basic HTML, Git. There is time and desire to take training in IT technologies.
 
-######LANGUAGE SKILLS
+#######LANGUAGE SKILLS
 English:  Beginner
 
 
