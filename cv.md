@@ -39,7 +39,7 @@ I am interested in finding a job in a company where I can use and develop my kno
 
 Sociable, purposeful, responsible, ability to work in a team. Well-delivered speech, active life position. I am engaged in self-education : online courses Advance24 and Basic javascript, Basic HTML, Git. There is time and desire to take training in IT technologies.
 
-#######LANGUAGE SKILLS
+######LANGUAGE SKILLS
 English:  Beginner
 
 
