@@ -1,2 +1,2 @@
 # rsschool-cv
- https://avataralesia.github.io/rsschool-cv/
+ https://avataralesia.github.io/rsschool-cv/cv.md/
